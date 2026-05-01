@@ -214,6 +214,6 @@ MIT — use this freely in personal and commercial projects.
 
 ---
 
-Built by [Muskan Joshi](https://github.com/muskanjoshi01) — full stack developer specializing in AI integration.
+Built by [Muskan Joshi](https://github.com/muskanjoshi01) 
 
 If this saved you time, a ⭐ on GitHub goes a long way.
